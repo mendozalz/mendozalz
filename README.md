@@ -18,7 +18,9 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 
 <br>
 
-### Tecnologias con las que trabajo<br>
+### Tecnologias con las que trabajo
+
+<br>
 
 <p align="center">
 <a href="https://github.com/mendozal"><img src="https://img.shields.io/badge/JS-F7E018.svg?style=for-the-badge&logo=javascript&logoColor=F7E018&labelColor=000000" alt="javascript"></a>&nbsp
@@ -35,7 +37,9 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 </p><br>
 <br>
 
-### Tecnologia con las que poco he trabajado<br>
+### Tecnologia con las que poco he trabajado
+
+<br>
 
 <p align="center">
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000000" alt="angular"></a>&nbsp
@@ -43,7 +47,10 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 </p><br>
 
 <br>
-### Mis estadisticas<br>
+
+### Mis estadisticas
+
+<br>
 
 <a href="https://github.com/mendozalz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mendozalz" />
