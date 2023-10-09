@@ -38,7 +38,7 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 </p><br>
 
 <br>
-### Mis estadisticas
+### Mis estadisticas<br>
 <a href="https://github.com/mendozalz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mendozalz" />
 </a>
