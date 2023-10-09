@@ -34,6 +34,12 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/threejs-000000.svg?style=for-the-badge&logo=three.js&logoColor=000000&labelColor=ffffff" alt="angular"></a>&nbsp
 </p><br>
 
+
 ### Mis estadisticas
-![Lenin Mendoza Github Estadisticas](https://github-readme-stats.vercel.app/api?username=mendozalz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/mendozalz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mendozalz" />
+</a>
+<a href="https://github.com/mendozalz/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendozalz&layout=compact&langs_count=8&card_width=320" />
+</a>
 
