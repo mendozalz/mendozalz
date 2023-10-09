@@ -1,9 +1,9 @@
 ### Bienvenidos a mi perfil ✌🏼 
 
-Mi nombre es Lenin Mendoza y soy Desarrollador Fornt-End.
-Mi interés por la seguridad informática y el pentesting surgió al final de mi carrera universitaria en 2016. A partir de 2017 comencé a trabajar como freelance desarrollando sitios web con WordPress según la demanda laboral. En 2019 di el salto a dedicarme profesionalmente al desarrollo web de tiempo completo. Desde entonces he trabajado en dos agencias web, una startup y actualmente (2023) en una empresa especializada en riesgos financieros donde soy el Webmaster y Desarrollador Web.
+Mi nombre es Lenin Mendoza y soy Desarrollador Front-End.
+Mi interés por la seguridad informática y el pentesting surgió al final de mi carrera universitaria en 2016. A partir de 2017 comencé a trabajar como freelance desarrollando sitios web con WordPress según la demanda laboral. En 2019 di el salto a dedicarme profesionalmente al desarrollo web de tiempo completo solo con Wordpress. Desde entonces he trabajado en dos agencias web, una startup y actualmente (2023) en una empresa especializada en riesgos financieros donde soy el Webmaster y Desarrollador Web.
 
-- 🔭 Desde 2022 dejé a un lado el trabajo en vanilla con HTML, CSS y JS y me he dedicado a aprender los frameworks de más demanda laboral...
+- 🔭 A comienzos 2023 dejé a un lado el trabajo en vanilla con HTML, CSS y JS y me he dedicado a aprender los frameworks de mayor demanda laboral...
 - 🌱  Actualmente estoy enfocado en Astro y React y pronto en React Native, ThreeJs y GSAP...
 - 👯 Recientemente colabore con un proyecto de Oscar Barajas en Astro llamado <a href="https://astro-tips.netlify.app/">astrobuild.tips</a>
 - 📫 Puedes contactarme: <a href="mailto:mendoza124302@gmail.com">mendoza124302@gmail.com</a>
@@ -17,6 +17,7 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 ### Tecnologias con las que trabajo
 <p align="center">
 <a href="https://github.com/mendozal"><img src="https://img.shields.io/badge/JS-F7E018.svg?style=for-the-badge&logo=javascript&logoColor=F7E018&labelColor=000000" alt="javascript"></a>&nbsp
+ <a href="https://github.com/mendozal"><img src="https://img.shields.io/badge/ts-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=000000" alt="javascript"></a>&nbsp
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/react-5ED3F3.svg?style=for-the-badge&logo=react&logoColor=5ED3F3&labelColor=000000" alt="react"></a>&nbsp
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/astro-D34B05.svg?style=for-the-badge&logo=astro&logoColor=D34B05&labelColor=000000" alt="astro"></a>&nbsp
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/angular-D34B05.svg?style=for-the-badge&logo=angular&logoColor=D34B05&labelColor=000000" alt="astro"></a>&nbsp
