@@ -10,9 +10,9 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Contador de visitas :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{anandmainali}/count.svg" alt="mendozalz :: Contador de visitas" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mendozalz}/count.svg" alt="mendozalz :: Contador de visitas" /></p>
 
 ### Tecnologias con las que trabajo
 <p align="center">
