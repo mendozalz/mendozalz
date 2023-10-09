@@ -18,7 +18,7 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 
 <br>
 
-### Tecnologias con las que trabajo
+### Tecnologías con las que trabajo
 
 <br>
 
@@ -36,7 +36,7 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 </p><br>
 <br>
 
-### Tecnologia con las que poco he trabajado
+### Tecnología con las que poco he trabajado
 
 <br>
 
