@@ -3,6 +3,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mendozalz/mendozalz/blob/main/devcard.svg" width="256" alt="Lenin Mendoza Dev Card"/></a>
                                                      
 <br>
+
 <p width="256">
 Mi nombre es Lenin Mendoza y soy Desarrollador Front-End.
 Mi interés por la seguridad informática y el pentesting surgió al final de mi carrera universitaria en 2016. A partir de 2017 comencé a trabajar como freelance desarrollando sitios web con WordPress según la demanda laboral. En 2019 di el salto a dedicarme profesionalmente al desarrollo web de tiempo completo solo con Wordpress. Desde entonces he trabajado en dos agencias web, una startup y actualmente (2023) en una empresa especializada en riesgos financieros donde soy el Webmaster y Desarrollador Web.<br><br>
