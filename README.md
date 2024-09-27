@@ -35,7 +35,6 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/astro-D34B05.svg?style=for-the-badge&logo=astro&logoColor=D34B05&labelColor=000000" alt="astro"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt="dotnet"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=ffffff" alt="csharp"></a>&nbsp
-  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=512BD4&labelColor=ffffff" alt="csharp"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/.NET%20MAUI-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt="dotnet maui"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=512BD4&labelColor=ffffff" alt="blazor"></a>&nbsp
   <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000" alt="python"></a>&nbsp
@@ -45,8 +44,6 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=8511fa&labelColor=ffffff" alt="bootstrap"></a>
   &nbsp 
   <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4&labelColor=ffffff" alt="sass"></a> 
-
-  <a href="#"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
   
 </p><br>
 <br>
