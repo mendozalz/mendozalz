@@ -45,6 +45,11 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=8511fa&labelColor=ffffff" alt="bootstrap"></a>
   &nbsp 
   <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4&labelColor=ffffff" alt="sass"></a> 
+
+  <a href="#"><img src="https://img.shields.io/badge/NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
+<a href="#"><img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"></a>
+<a href="#"><img src="https://img.shields.io/badge/BLAZOR-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"></a>
   
 </p><br>
 <br>
