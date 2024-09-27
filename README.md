@@ -36,7 +36,7 @@ Mi interés por la seguridad informática y el pentesting surgió al final de mi
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt="dotnet"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=ffffff" alt="csharp"></a>&nbsp
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/.NET%20MAUI-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt="dotnet maui"></a>&nbsp
-<a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=512BD4&labelColor=ffffff" alt="blazor"></a>&nbsp;
+<a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=512BD4&labelColor=ffffff" alt="blazor"></a>&nbsp
   
   <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000" alt="python"></a>&nbsp
  <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=117AC9&labelColor=000000" alt="wordpress"></a>&nbsp
