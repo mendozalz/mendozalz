@@ -7,12 +7,17 @@
 
 <p width="256">
 Mi nombre es Lenin Mendoza y soy Desarrollador Front-End.
-Mi interés por la seguridad informática y el pentesting surgió al final de mi carrera universitaria en 2016. A partir de 2017 comencé a trabajar como freelance desarrollando sitios web con WordPress según la demanda laboral. En 2019 di el salto a dedicarme profesionalmente al desarrollo web de tiempo completo solo con Wordpress. Desde entonces he trabajado en dos agencias web, una startup y actualmente (2023) en una empresa especializada en riesgos financieros donde soy el Webmaster y Desarrollador Web.<br><br>
+Soy un Desarrollador Web con experiencia desde 2017, especializado en la creación de soluciones modernas y eficientes para la web. A lo largo de mi trayectoria, he evolucionado desde el desarrollo tradicional en WordPress hacia tecnologías más avanzadas y flexibles, centrándome actualmente en frameworks como Astro, Next.js y Strapi, creando aplicaciones web robustas y dinámicas.
 
+Desde 2023, he trabajado activamente en proyectos headless, utilizando Strapi como CMS y Next.js 14 para el frontend, brindando experiencias web optimizadas y escalables. Además, tengo conocimientos en .NET MAUI y Blazor, donde sigo profundizando constantemente, y en herramientas de animación web como GSAP y Three.js para crear interfaces interactivas y atractivas.
 
-- 🔭 A comienzos 2023 dejé a un lado el trabajo en vanilla con HTML, CSS y JS y me he dedicado a aprender los frameworks de mayor demanda laboral...
+Mi enfoque profesional va más allá del desarrollo técnico: considero fundamental la optimización para motores de búsqueda (SEO) y la accesibilidad web, asegurando que cada proyecto cumpla con los estándares de rendimiento y usabilidad. Aunque ya no me dedico intensivamente a SEO, aplico las mejores prácticas en cada proyecto.
+
+Actualmente, formo parte de INVENTEK, una empresa financiera especializada en trading y bots algorítmicos, donde colaboro en el desarrollo y mantenimiento de soluciones web estratégicas. Paralelamente, sigo explorando activamente el potencial de la inteligencia artificial aplicada al desarrollo web, buscando siempre estar a la vanguardia tecnológica.
+
+Mi objetivo es seguir creciendo como desarrollador, creando productos digitales innovadores y de alto impacto, mientras me mantengo en constante aprendizaje y exploración de nuevas herramientas y tendencias tecnológicas.<br><br>
+
 - 🌱  Actualmente estoy enfocado en Astro, React y Python y pronto en React Native, ThreeJs y GSAP...
-- 👯 Recientemente hice mi primera colaboración en un proyecto de Oscar Barajas hecho en Astro llamado <a href="https://astro-tips.netlify.app/">astrobuild.tips</a>
 - 📫 Puedes contactarme: <a href="mailto:mendoza124302@gmail.com">mendoza124302@gmail.com</a>
 </p>
 
