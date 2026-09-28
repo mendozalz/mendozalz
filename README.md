@@ -4,7 +4,7 @@
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mendozalz/mendozalz/blob/main/devcard.svg" width="256" alt="Lenin Mendoza Dev Card"/></a>
 </div>
 <div align="center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=66F700&width=435&lines=Mi+nombre+es+Lenin+Mendoza.;DataScience+%26+DataEngineer..." alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/mendozalz/mendozalz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <br/>
