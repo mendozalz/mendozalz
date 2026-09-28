@@ -11,17 +11,17 @@
 
 <div align="center">
   <p><b>Desarrollador de Software con enfoque en Cloud, Data Engineering y Orquestación de Agentes de IA</b></p>
-  <p>Con más de 6 años de experiencia, he evolucionado desde arquitecturas web hacia la <b>infraestructura en la nube (AWS), la automatización y la ingeniería de datos</b>[cite: 2]. Actualmente, me preparo para la gestión de Big Data y diseño arquitecturas serverless que integran Inteligencia Artificial para potenciar decisiones de negocio[cite: 2].</p>
+  <p>Con más de 6 años de experiencia, he evolucionado desde arquitecturas web hacia la <b>infraestructura en la nube (AWS), la automatización y la ingeniería de datos</b>. Actualmente, me preparo para la gestión de Big Data y diseño arquitecturas serverless que integran Inteligencia Artificial para potenciar decisiones de negocio.</p>
 </div>
 
 ---
 
 ### 🚀 Lo que estoy construyendo (Enfoque Actual)
 
-- 🤖 **Orquestación de IA:** Creación de agentes autónomos con **LangChain** y **Managed Deep Agents**[cite: 2, 3].
-- 🏗️ **Arquitectura Cloud:** Implementando flujos de trabajo con arquitecturas de tres capas (Lógica, Arnés e Infraestructura)[cite: 2, 3].
-- ☁️ **Infraestructura en Producción:** Despliegue de entornos tolerantes a fallos y sandboxes usando ecosistemas de **AWS** y LangSmith[cite: 2, 4].
-- 🐍 **Ecosistema Data:** Gestión eficiente de entornos Python utilizando `uv`[cite: 2, 4].
+- 🤖 **Orquestación de IA:** Creación de agentes autónomos con **LangChain** y **Managed Deep Agents**.
+- 🏗️ **Arquitectura Cloud:** Implementando flujos de trabajo con arquitecturas de tres capas (Lógica, Arnés e Infraestructura).
+- ☁️ **Infraestructura en Producción:** Despliegue de entornos tolerantes a fallos y sandboxes usando ecosistemas de **AWS** y LangSmith.
+- 🐍 **Ecosistema Data:** Gestión eficiente de entornos Python utilizando `uv`.
 
 ---
 
@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  #### ☁️ Data, Cloud & AI
+  #### ☁️ Data, Cloud & AI.
   <br/>
   <a href="https://aws.amazon.com/es/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
@@ -39,7 +39,7 @@
 
   <br/><br/>
 
-  #### 💻 Desarrollo Web & Arquitectura
+  #### 💻 Desarrollo Web & Arquitectura con las que he trabajado.
   <br/>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
@@ -75,7 +75,6 @@
 
 <div align="center">
   <p><b>Visitantes</b></p>
-  <!-- Contador de visitas moderno usando mochammadsyaifudin API -->
   <img src="https://komarev.com/ghpvc/?username=mendozalz&label=Visitas&color=316192&style=flat-square" alt="Contador de visitas" />
 </div>
 
