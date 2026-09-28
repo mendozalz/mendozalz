@@ -54,6 +54,10 @@
 ### 📝 Mis últimos artículos y notas
 
 <!-- feed:START -->
+- [🧵 Gestión de Múltiples Cuentas de GitHub en un Solo Sistema &lpar;Ubuntu&rpar;](https://dev.to/mendozalz/gestion-de-multiples-cuentas-de-github-en-un-solo-sistema-ubuntu-22ll)
+- [Cómo Cambiar el Favicon Basado en el Esquema de Color del Sistema sin JavaScript](https://dev.to/mendozalz/como-cambiar-el-favicon-basado-en-el-esquema-de-color-del-sistema-sin-javascript-2op1)
+- [Redirigir después de enviar datos en formulario dentro de Astro y TypeScript con componentes de React &lpar;Mi solución&rpar;](https://dev.to/mendozalz/redirigir-despues-de-enviar-datos-en-formulario-dentro-de-astro-y-typescript-con-componentes-de-react-mi-solucion-39i9)
+- [Cómo Integrar un Componente React en WordPress con Elementor: Mi Experiencia y Solución &lpar;Actualización 23.5.24&rpar;](https://dev.to/mendozalz/como-integrar-un-componente-react-en-wordpress-con-elementor-mi-experiencia-y-solucion-26c8)
 <!-- feed:END -->
 
 ---
