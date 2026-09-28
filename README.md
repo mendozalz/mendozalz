@@ -62,16 +62,22 @@
 
 ---
 
-### 📊 Mis Estadísticas 
+### 📊 Mis Estadísticas
 
 <div align="center">
+  <!-- Fila 1: Racha de Commits -->
+  <a href="https://github.com/mendozalz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendozalz&theme=tokyonight&hide_border=true" alt="Racha de Commits" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Fila 2: Cuadrícula de 4 Tarjetas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mendozalz&theme=github_dark" alt="Estadísticas Generales" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day-time?username=mendozalz&theme=github_dark" alt="Commits por Hora" width="48%" />
   <br/>
-  <a href="https://github.com/mendozalz">
-    <img src="https://github-readme-stats.vercel.app/api?username=mendozalz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/mendozalz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozalz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mendozalz&theme=github_dark" alt="Lenguajes por Repositorio" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mendozalz&theme=github_dark" alt="Lenguajes por Commit" width="48%" />
 </div>
 
 <br/>
