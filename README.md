@@ -53,9 +53,8 @@
 
 ### 📝 Mis últimos artículos y notas
 
-<!-- START_SECTION:feed -->
-*(Configura GitHub Actions para ver tus posts de Dev.to o LinkedIn aquí)*
-<!-- END_SECTION:feed -->
+<!-- feed:START -->
+<!-- feed:END -->
 
 ---
 
