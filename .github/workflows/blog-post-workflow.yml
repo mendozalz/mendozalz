@@ -1,0 +1,24 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Se ejecuta automáticamente todos los días a la medianoche
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite ejecutar el flujo manualmente con un clic
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Reemplaza esta URL por el feed RSS de tu plataforma de blogs
+          # Ejemplos: 
+          # Dev.to: "https://dev.to/feed/mendozalz"
+          # Medium: "https://medium.com/feed/@mendozalz"
+          feed_list: "https://dev.to/feed/mendozalz"
+          max_post_count: 5
+          comment_tag_name: "feed"
